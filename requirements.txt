@@ -1,0 +1,6 @@
+1. pandas
+2. scikit-learn
+3. matplotlib
+4. pyttsx3
+5. python-dotenv
+6. request
