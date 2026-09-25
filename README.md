@@ -1,4 +1,5 @@
 📥 Spam Email Detector
+
 An intelligent Spam Detection System developed using Machine Learning and Python. The project uses the Multinomial Naive Bayes algorithm with CountVectorizer for real-time spam message classification through an interactive Tkinter-based graphical user interface.
 
 🚀 Features
@@ -22,6 +23,7 @@ Multinomial Naive Bayes
 Scikit-learn
 
 🛠️ Technologies Used
+
 Python
 Tkinter
 Scikit-learn
@@ -31,12 +33,14 @@ pyttsx3
 VirusTotal API
 
 📊 Project Performance
+
 Accuracy: 98.48%
 Precision: 97.83%
 Recall: 90.60%
 F1 Score: 94.08%
 
 📁 Project Structure
+
 
 Spam Detector/
 ├── main.py
@@ -55,7 +59,9 @@ Spam Detector/
 ├── author.jpg
 └── README.md
 
+
 📦 Required Libraries
+
 Install the required libraries using:
 pip install -r requirements.txt
 Main libraries:
@@ -66,7 +72,9 @@ pyttsx3
 python-dotenv
 requests
 
+
 ▶️ How to Run
+
 Download or clone this repository.
 Install the required libraries:
 pip install -r requirements.txt
@@ -76,14 +84,21 @@ Run the application:
 python main.py
 
 📜 History
+
 The application stores detection history in history.csv, including message result, phishing information, URL, and online URL verification details.
 
 🔐 Security
+
 The VirusTotal API key is stored in .env and should not be uploaded to GitHub. The .env file is excluded using .gitignore.
+
 👨‍💻 Author
+
 �
+
 Anurag Sharma
 Computer Science & Engineering Student
 Developed this project as a Machine Learning based Spam Detection System.
+
+
 📸 Screenshots
 Add your project screenshots here.
