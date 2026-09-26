@@ -44,19 +44,33 @@ F1 Score: 94.08%
 
 Spam Detector/
 ├── main.py
+
 ├── config.py
+
 ├── dataset.py
+
 ├── model.py
+
 ├── history.py
+
 ├── graph.py
+
 ├── dashboard.py
+
 ├── phishing.py
+
 ├── url_checker.py
+
 ├── SMSSpamCollection
+
 ├── history.csv
+
 ├── requirements.txt
+
 ├── .gitignore
+
 ├── author.jpg
+
 └── README.md
 
 
@@ -93,12 +107,44 @@ The VirusTotal API key is stored in .env and should not be uploaded to GitHub. T
 
 👨‍💻 Author
 
-�
+![Anurag Sharma](author.png)
 
-Anurag Sharma
+**Anurag Sharma**
 Computer Science & Engineering Student
 Developed this project as a Machine Learning based Spam Detection System.
 
 
 📸 Screenshots
-Add your project screenshots here.
+### 🖥️ Main GUI
+![Main GUI](main_gui.png)
+
+### 📊 Dashboard
+![Dashboard](dashboard.png)
+
+### 📊 Dataset
+![Dataset](dataset.png)
+
+### 📈 Graph
+![Graph](graph.png)
+
+### 🗂️ History
+![History](history.png)
+
+### ⚙️ Settings
+![Settings](setting.png)
+
+### ⚠️ Spam Detection
+![Spam Detection](spam1.png)
+
+### 🛡️ Ham Detection
+![Ham Detection](ham.png)
+
+### 🔗 Online URL Verification
+![URL Verification](url.png)
+
+### 📊 Confusion Matrix
+![Confusion Matrix](confusion.png)
+
+### 📊 CSD
+![CSD](csd.png)
+
